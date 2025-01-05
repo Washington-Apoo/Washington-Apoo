@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Washington-Apoo
-- 👀 I’m interested in Angular, Java and Nodejs
+- 👀 I’m interested in Angular,React,Nodejs,Javascript and Java
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Angular project
 - 📫 How to reach me 0741123491 | lokala washington2023@gmail.com

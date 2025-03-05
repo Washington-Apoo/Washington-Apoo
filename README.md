@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Washington-Apoo
+- Computer scientist who specialised in software development 
 - 👀 I’m interested in Angular, React, Nodejs, Javascript and Java
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Web and Android project

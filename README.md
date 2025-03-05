@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Washington-Apoo
 - 👀 I’m interested in Angular, React, Nodejs, Javascript and Java
 - 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on Angular project
+- 💞️ I’m looking to collaborate on Web and Android project
 - 📫 How to reach me 0741123491 | lokala washington2023@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: Never show your computer you are in a hurry
